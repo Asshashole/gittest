@@ -1,3 +1,4 @@
 # gittest
 practise how to use git
-add something to test
+add hapening something to test
+dd x
